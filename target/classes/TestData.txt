@@ -1,0 +1,4 @@
+Browser= Chrome
+URL=https://www.shoppersstack.com/
+email=kavyaravindra05@gmail.com
+Password=St@ck12345
